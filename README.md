@@ -1,4 +1,6 @@
-# cs445-final-project Fall 2023 University of Illinois Urbana-Champaign
+# cs445-final-project
+**Note: Github has a max file size of 25MB.  google "frozen_east_text_detection.pb" to find a copy of this widely used pre trained model.
+
 CS445 Computational Photography
 University of Illinois Urbana-Champaign
 Fa2023
