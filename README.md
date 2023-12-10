@@ -1,4 +1,4 @@
-# cs445-final-project
+# cs445-final-project Fall 2023 University of Illinois Urbana-Champaign
 CS445 Computational Photography
 University of Illinois Urbana-Champaign
 Fa2023
