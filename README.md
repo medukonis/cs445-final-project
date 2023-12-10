@@ -1,5 +1,5 @@
 # cs445-final-project
-**Note: Github has a max file size of 25MB.  google "frozen_east_text_detection.pb" to find a copy of this widely used pre trained model.
+**Note: Github has a max file size of 25MB.  I could not upload to the repository.  Google "frozen_east_text_detection.pb" to find a copy of this widely used pre trained model which is required to be in the same directory as the code.
 
 CS445 Computational Photography
 University of Illinois Urbana-Champaign
