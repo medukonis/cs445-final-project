@@ -14,7 +14,7 @@ Installation
 To run this project, you will need Python installed on your machine along with several dependencies.
 
 You can install the required packages using the following command:
-pip install exifread, pillow, numpy opencv-python matplotlib, matplotlib-inline, pytesseract, tesseract, imutils.  There is also a requirements.txt file provided so you may run pip install -r requirements.txt
+pip install exifread, pillow, numpy opencv-python matplotlib, matplotlib-inline, pytesseract, tesseract, imutils, scipy.  There is also a requirements.txt file provided so you may run pip install -r requirements.txt
 
 Usage
 After installing the required dependencies, you can run the script from the command line. Make sure to place the image files to be processed in a folder called 'dataset'
